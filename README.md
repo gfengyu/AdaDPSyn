@@ -18,7 +18,7 @@ This code has been built upon the code accompanying the papers
 
 "[Privacy-Preserving In-Context Learning with Differentially Private Few-Shot Generation](https://arxiv.org/abs/2309.11765)" [[code](https://github.com/microsoft/dp-few-shot-generation)].
 
-"[Calibrate Before Use: Improving Few-shot Performance of Language Models]([https://arxiv.org/abs/2309.11765](https://arxiv.org/abs/2102.09690))" [[code]([https://github.com/microsoft/dp-few-shot-generation](https://github.com/tonyzhaozh/few-shot-learning))].
+"[Calibrate Before Use: Improving Few-shot Performance of Language Models](https://arxiv.org/abs/2102.09690)" [[code]([https://github.com/microsoft/dp-few-shot-generation](https://github.com/tonyzhaozh/few-shot-learning))].
 
 ## Questions
 If anything is unclear, please contact Fengyu Gao (fengyugao@psu.edu).
