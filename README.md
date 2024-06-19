@@ -4,6 +4,8 @@ Code for "Data-adaptive Differentially Private Prompt Synthesis for In-Context L
 
 1. Install the following libraries via pip
 
+## Datasets preparation
+
 ## Project structure
 
 ## Experiments
