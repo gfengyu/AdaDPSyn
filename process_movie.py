@@ -74,5 +74,4 @@ def generate_dataset(field_name, data_path="."):
     df.to_csv(f"./data/movie/{field_name}/test.csv")
 
 for field_name in ['Director', 'Genre']:
-    # by default save to ./movie/field_name, this is consistent with src/run_exp_movie.py#L362
     generate_dataset(field_name, data_path='')
