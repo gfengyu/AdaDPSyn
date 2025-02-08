@@ -13,6 +13,8 @@ To use the vLLM server for model inference, follow the steps below:
 
 ```bash
 pip install vllm==0.3.1
+pip install transformers==4.37.0
+pip install numpy==1.24.3
 ```
 
 ##### Start the vLLM OpenAI-compatible API server
